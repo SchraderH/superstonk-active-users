@@ -9,3 +9,6 @@ CSV data format: `UTC unix timestamp,subreddit name,active users,subscribers`
 **The data in this dataset contains time differences larger or smaller than 15 seconds, due to updates and internet connection problems. It also contains some duplicate values.*
 
 More information: https://www.reddit.com/r/Superstonk/comments/nok5xe/monitoring_and_analyzing_active_users_and/
+
+### User count timeline
+![r/superstonk user count timeline](https://github.com/SchraderH/superstonk-active-users/blob/master/users_superstonk.png "User count over time on r/Superstonk")
